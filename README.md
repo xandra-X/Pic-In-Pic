@@ -25,7 +25,7 @@ This is a lightweight web application built with vanilla HTML, CSS, and JavaScri
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
-- 
+
 Clone the repo:
    ```bash
    https://xandra-x.github.io/Pic-In-Pic/
