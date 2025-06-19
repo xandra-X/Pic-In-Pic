@@ -1,6 +1,6 @@
 # 📺 Project Name — Web Demo Template
 
-> A short one-line summary of what your project does.
+> A web app that captures your screen and displays it in Picture-in-Picture mode with a single click.
 
 ![screenshot](./picInpic.png)
 
