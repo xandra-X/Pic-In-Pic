@@ -2,7 +2,7 @@
 
 > A short one-line summary of what your project does.
 
-![screenshot](./screenshot.png)
+![screenshot](./picInpic.png)
 
 ## 🌐 Live Demo
 
