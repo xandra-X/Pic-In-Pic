@@ -1,4 +1,4 @@
-# 📺 Project Name — Web Demo Template
+# 📺 Pic in Pic
 
 > A web app that captures your screen and displays it in Picture-in-Picture mode with a single click.
 
